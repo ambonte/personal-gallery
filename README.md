@@ -1,4 +1,4 @@
-# personal-gallery-application
+# personal-gallery
 This application will show the user on the dashboard all the Photos that the admin have to add images and the location. and the user will be able to see them on the dashboard.
 
 ## By Bonte Emma BANA
@@ -24,7 +24,7 @@ and user visual code for writing codes
 Use Terminal to open the server and the brouser to run this application
 
 ### Behavior Driven Development (BDD)
-* Create structure  etc..
+* Create structure  etc
 * Create 4 classs are Photographer,Image, Category, Location
 * Create test file to test all your method 
 * Create the manage file for used to run all your test
