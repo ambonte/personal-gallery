@@ -59,7 +59,7 @@ class Category(models.Model):
         return category
 
     @classmethod
-    def search_by_ctegory(cls,id):
+    def search_by_category(cls,id):
         category=Category.objects.get(pk=id)
         return category
     
