@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-import datetime as dt
+import dattime as dt
 
 class Photographer(models.Model):
     first_name=models.CharField(max_length=30)
